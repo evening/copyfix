@@ -1,0 +1,12 @@
+# ai generated git ignore, not a swiftui dev idk what's needed
+
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+*.xccheckout
+*.xcuserstate
+*.xcuserstate
+*.xcscheme
+xcschememanagement.plist
